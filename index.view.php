@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf_8">
   </head>
-  <body>
+  <body class="h-full">
     <!--
   This example requires updating your template:
 
